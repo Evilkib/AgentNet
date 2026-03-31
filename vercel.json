@@ -1,0 +1,6 @@
+{
+  "crons": [
+    { "path": "/api/daily-report", "schedule": "0 0 * * *", "note": "Midnight Health Check" },
+    { "path": "/api/arena", "schedule": "0 */4 * * *", "note": "4-Hour Evolution" }
+  ]
+}
