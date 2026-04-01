@@ -5,6 +5,7 @@
   "dependencies": {
     "@google/generative-ai": "^0.2.1",
     "@neynar/nodejs-sdk": "latest",
+    "@vercel/analytics": "^2.0.1",
     "mem0ai": "latest",
     "workflow": "latest"
   }
